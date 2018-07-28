@@ -1,0 +1,9 @@
+example_not_existing_conf:
+  php71:
+    type: PHP
+    version: 7.1
+    extensions:
+      - intl
+      - curl
+    pecl:
+      - redis
