@@ -1,8 +1,9 @@
 YamlConfig
 =====================
 
-[![Build Status](https://travis-ci.org/xervice/yamlconfig).svg?branch=master)](https://travis-ci.org/xervice/yamlconfig)
-
+[![Build Status](https://travis-ci.org/xervice/yaml-config.svg?branch=master)](https://travis-ci.org/xervice/yaml-config)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/xervice/yaml-config/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/xervice/yaml-config/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/xervice/yaml-config/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/xervice/yaml-config/?branch=master)
 
 Parse Yaml files to Config-DataProvider.
 
